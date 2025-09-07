@@ -1,3 +1,4 @@
-export default function FirstPost() {
-  return <h1>First Post</h1>;
+export default function Home_Page() {
+  return <h1>Home_Page</h1>;
 }
+
