@@ -1,8 +1,9 @@
-export default function Page() {
+export default function HomePage() {
   return (
-    <main>
-      <h1>My Page</h1>
-      <p>This is the content for the page.</p>
-    </main>
+    <div>
+      <Head>
+        <title> Hi </title>
+      </Head>
+    </div>
   );
 }
