@@ -1,3 +1,5 @@
+import Layout from 'minye65.github.io/docs/components/layout';
+
 export default function HomePage() {
   return (
     <div>
@@ -7,3 +9,4 @@ export default function HomePage() {
     </div>
   );
 }
+
