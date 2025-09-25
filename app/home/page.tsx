@@ -1,4 +1,4 @@
-import Layout from 'minye65.github.io/docs/components/layout';
+import Layout from 'minye65.github.io/components/layout';
 
 export default function HomePage() {
   return (
