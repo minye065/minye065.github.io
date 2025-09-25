@@ -1,6 +1,6 @@
 import Layout from 'minye65.github.io/docs/components/layout';
 
-default function SignInLink(){
+export function SignInLink(){
   return (
     <Link 
       href = "/sign-in"
