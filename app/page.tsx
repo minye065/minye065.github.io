@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/nextjs-github-pages/next.svg"
+          src="/minye065.github.io/next.svg"
           alt="Next.js logo"
           width={180}
           height={38}
@@ -71,14 +71,6 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-			<Image
-			  src="/nextjs-github-pages/vercel.svg"
-			  alt="Vercel Logo"
-			  className={styles.vercelLogo}
-			  width={100}
-			  height={24}
-			  priority
-			/>
           Examples
         </a>
         <a
